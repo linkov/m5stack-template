@@ -1,0 +1,5 @@
+/Users/jim/CLionProjects/untitled1/cmake-build-m5stack-core-esp32/CMakeFiles/Production.dir
+/Users/jim/CLionProjects/untitled1/cmake-build-m5stack-core-esp32/CMakeFiles/Debug.dir
+/Users/jim/CLionProjects/untitled1/cmake-build-m5stack-core-esp32/CMakeFiles/Z_DUMMY_TARGET.dir
+/Users/jim/CLionProjects/untitled1/cmake-build-m5stack-core-esp32/CMakeFiles/edit_cache.dir
+/Users/jim/CLionProjects/untitled1/cmake-build-m5stack-core-esp32/CMakeFiles/rebuild_cache.dir

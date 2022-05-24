@@ -1,0 +1,4 @@
+"/Users/jim/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=m5stack-core-esp32 "-DCMAKE_MAKE_PROGRAM=/Users/jim/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/CLion.app/Contents/bin/ninja/mac/ninja" -G Ninja -S /Users/jim/CLionProjects/untitled1 -B /Users/jim/CLionProjects/untitled1/cmake-build-m5stack-core-esp32
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/jim/CLionProjects/untitled1/cmake-build-m5stack-core-esp32
